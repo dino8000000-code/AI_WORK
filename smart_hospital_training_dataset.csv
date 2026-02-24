@@ -1,0 +1,71 @@
+Age,Disease,Disease_Severity,Age_Risk,Final_Risk_Score,Priority
+82,Heart Attack,5,5,15,1
+76,Stroke,5,5,15,1
+69,Cancer,4,4,12,2
+88,Sepsis,5,5,15,1
+72,Kidney Failure,4,4,12,2
+65,Pulmonary Embolism,4,4,12,2
+90,Brain Hemorrhage,5,5,15,1
+58,Pneumonia,3,3,9,2
+47,Diabetes,3,3,9,2
+34,Asthma,3,2,8,3
+25,Flu,1,2,4,3
+19,Cold,1,2,4,3
+54,Hypertension,3,3,9,2
+77,Liver Failure,4,5,13,1
+83,Severe Trauma,5,5,15,1
+60,Appendicitis,3,3,9,2
+44,Migraine,2,3,7,3
+39,Fracture,2,2,6,3
+73,Meningitis,4,4,12,2
+81,Sepsis,5,5,15,1
+67,Cancer,4,4,12,2
+52,Diabetes,3,3,9,2
+29,Allergy,1,2,4,3
+31,Ulcer,2,2,6,3
+78,Heart Attack,5,5,15,1
+85,Stroke,5,5,15,1
+62,Pneumonia,3,4,10,2
+70,Kidney Failure,4,4,12,2
+48,Asthma,3,3,9,2
+22,Cold,1,2,4,3
+14,Food Poisoning,1,2,4,3
+56,Hypertension,3,3,9,2
+63,Liver Failure,4,4,12,2
+74,Cancer,4,4,12,2
+91,Brain Hemorrhage,5,5,15,1
+59,Appendicitis,3,3,9,2
+45,Fracture,2,3,7,3
+36,Migraine,2,2,6,3
+27,Skin Infection,1,2,4,3
+18,Ear Infection,1,2,4,3
+80,Severe Trauma,5,5,15,1
+84,Sepsis,5,5,15,1
+66,Pulmonary Embolism,4,4,12,2
+71,Meningitis,4,4,12,2
+53,Diabetes,3,3,9,2
+41,Hypertension,3,3,9,2
+38,Thyroid Disorder,2,2,6,3
+33,Ulcer,2,2,6,3
+21,Flu,1,2,4,3
+17,Cold,1,2,4,3
+79,Heart Attack,5,5,15,1
+86,Stroke,5,5,15,1
+68,Cancer,4,4,12,2
+75,Kidney Failure,4,4,12,2
+64,Liver Failure,4,4,12,2
+57,Pneumonia,3,3,9,2
+49,Asthma,3,3,9,2
+42,Diabetes,3,3,9,2
+35,Fracture,2,2,6,3
+28,Allergy,1,2,4,3
+23,Skin Infection,1,2,4,3
+16,Ear Infection,1,2,4,3
+87,Brain Hemorrhage,5,5,15,1
+92,Sepsis,5,5,15,1
+61,Pulmonary Embolism,4,4,12,2
+55,Hypertension,3,3,9,2
+46,Migraine,2,3,7,3
+32,Ulcer,2,2,6,3
+24,Cold,1,2,4,3
+20,Flu,1,2,4,3
